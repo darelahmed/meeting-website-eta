@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "agora-rtc-sdk-ng": "^4.20.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
